@@ -179,17 +179,12 @@ The implemented architecture includes:
 
 ##  Contributors
 
-| Name | GitHub |
-|------|--------|
-| Syed Mustafa Ahmed | https://github.com/YOUR_USERNAME | Project Lead, Model Development, Training, Inference Pipeline |
-| Mohammed Hassan Farukh Faizan | https://github.com/FaizanMohd5 | Dataset Preparation & Validation |
-| Mohammed Yousuf Hussain | https://github.com/Md-Yousuf-Hussain | Documentation & Testing |
-
+| Name | GitHub | Role |
+|------|--------|------|
+| Syed Mustafa Ahmed | [@syed177013](https://github.com/syed177013) | Project Lead, Model Development, Training, Inference Pipeline |
+| Mohammed Hassan Farukh Faizan | [@FaizanMohd5](https://github.com/FaizanMohd5) | Dataset Preparation & Validation |
+| Mohammed Yousuf Hussain | [@Md-Yousuf-Hussain](https://github.com/Md-Yousuf-Hussain) | Documentation & Testing |
 ---
-
-##  Acknowledgements
-
-This project was developed as part of a Bachelor's major project and was inspired by research in Face Anti-Spoofing and Central Difference Convolutional Networks (CDCN). We acknowledge the open-source community and the researchers whose work has advanced the field of biometric security.
 
 ---
 
