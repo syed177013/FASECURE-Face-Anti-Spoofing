@@ -51,7 +51,7 @@ Designed as an end-to-end computer vision project, FASECURE demonstrates how dee
 
 ### Printed Photo Attack
 
-<img src="assets/screenshots/printed_photo_attack.png" width="400">
+<img src="assets/screenshots/printed_photo.png" width="400">
 
 *Detection of a printed photograph presented to the camera as a **Spoof** attack.*
 
