@@ -1,0 +1,5 @@
+torch
+torchvision
+numpy
+opencv-contrib-python==4.11.0.86
+Pillow
