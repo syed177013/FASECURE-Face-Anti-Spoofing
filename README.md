@@ -183,7 +183,7 @@ The implemented architecture includes:
 |------|--------|
 | Syed Mustafa Ahmed | https://github.com/YOUR_USERNAME | Project Lead, Model Development, Training, Inference Pipeline |
 | Mohammed Hassan Farukh Faizan | https://github.com/FaizanMohd5 | Dataset Preparation & Validation |
-| Mohammed Yousuf Hussain | <To be Filled> | Documentation & Testing |
+| Mohammed Yousuf Hussain | https://github.com/Md-Yousuf-Hussain | Documentation & Testing |
 
 ---
 
