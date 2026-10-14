@@ -25,15 +25,15 @@ Designed as an end-to-end computer vision project, FASECURE demonstrates how dee
 
 ##  Features
 
-- 🎥 Real-time webcam inference
-- 👥 Multiple face detection with independent liveness classification
-- 👤 Automatic face detection using OpenCV DNN
-- 🧠 CDCN++-inspired deep learning architecture
-- 🎯 Binary Live / Spoof classification
-- 🔍 Attention-based feature refinement
-- ⚡ CPU and CUDA inference support
-- 📦 Lightweight trained model (~9 MB)
-- 🧩 Modular PyTorch implementation
+- Real-time webcam inference
+- Multiple face detection with independent liveness classification
+- Automatic face detection using OpenCV DNN
+- CDCN++-inspired deep learning architecture
+- Binary Live / Spoof classification
+- Attention-based feature refinement
+- CPU and CUDA inference support
+- Lightweight trained model (~9 MB)
+- Modular PyTorch implementation
 
 ---
 
